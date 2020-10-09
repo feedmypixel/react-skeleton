@@ -1,3 +1,11 @@
-# Layout
+# React Application skeleton
 
-A look into how to achieve a site wide layout approach with React
+Built via Create React App. An example of:
+    
+- Folder Layout
+- Layout component
+- HOC examples
+- Context example
+- Hooks example
+- Transformers example
+- Suspense/Lazy examples

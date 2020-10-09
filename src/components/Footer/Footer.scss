@@ -1,0 +1,13 @@
+.Footer {
+  display: flex;
+  padding: 12px;
+}
+
+.Footer_primary {
+  flex: 2;
+}
+
+.Footer_secondary {
+  flex: 1;
+  text-align: right;
+}

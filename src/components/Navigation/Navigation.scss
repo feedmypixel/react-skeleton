@@ -1,0 +1,18 @@
+.Navigation {
+  display: flex;
+  padding: 12px;
+
+  .Navigation_item {
+    display: inline-block;
+    margin-right: 6px;
+  }
+}
+
+.Navigation_primary {
+  flex: 2;
+}
+
+.Navigation_secondary {
+  flex: 1;
+  text-align: right;
+}
